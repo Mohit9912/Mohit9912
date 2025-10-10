@@ -13,6 +13,7 @@ I am a Biomedical engineering student, currently halfway through my degree, expa
 ---
 
 ### 🌱 I’m currently learning ...
+- [ ] python 
 - [ ] Natural Language Processing (NLP)
 - [ ] python libraries 
 - [ ] MLops and CI/CD pipelines
@@ -20,7 +21,7 @@ I am a Biomedical engineering student, currently halfway through my degree, expa
 ### 💡 I'm eager to work on new projects.
 - [ ] Creating an AI-powered application.
 - [ ] ML projects streamlining healthcare services  
-- [ ] Contributing to a major open-source project.
+- [ ] automating healthcare service for faster services 
 
 ### 🎸 Outside tech...
 I enjoy socializing with friends, playing video games 🎮, listening to music 🎧.
